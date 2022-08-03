@@ -1,4 +1,4 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats-drab-ten-62.vercel.app/api?username=senn&show_icons=true&theme=cobalt)
 
 <!--
 **senn/senn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
